@@ -39,9 +39,9 @@ El objetivo es construir un backend seguro y funcional que permita autenticar us
 
 ### 2. Crear entorno virtual y activarlo
 
-python -m venv env
-pip install -r requirements.txt
-uvicorn app.main:app --reload
+- python -m venv env
+- pip install -r requirements.txt
+- uvicorn app.main:app --reload
 
 ### 3. Acceder a la API en el navegador
 http://127.0.0.1:8000/docs
