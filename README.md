@@ -75,4 +75,5 @@ ferremas-backend/
 
 ![image](https://github.com/user-attachments/assets/5b30b5f3-13ea-452a-9c49-7c5ab369e6c5)
 
+![image](https://github.com/user-attachments/assets/b27943a4-5266-4731-b91b-94f80623c0f7)
 
