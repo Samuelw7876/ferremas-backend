@@ -70,4 +70,9 @@ ferremas-backend/
 │       └── contactos_routes.py
 ├── requirements.txt
 ├── Procfile
-├── .gitignore
+├── .gitignore![image](https://github.com/user-attachments/assets/033d30af-baf7-4cb3-a6f8-b2be1effae59)
+
+
+![image](https://github.com/user-attachments/assets/5b30b5f3-13ea-452a-9c49-7c5ab369e6c5)
+
+
