@@ -51,29 +51,6 @@ http://127.0.0.1:8000/docs
 
   🗂 Estructura del proyecto
 
-ferremas-backend/
-├── app/
-│   ├── main.py
-│   ├── database.py
-│   ├── models.py
-│   ├── schemas.py
-│   ├── auth.py
-│   ├── roles.py
-│   ├── utils.py
-│   └── routers/
-│       ├── auth_routes.py
-│       ├── protected_routes.py
-│       ├── productos_routes.py
-│       ├── pedidos_routes.py
-│       ├── pagos_routes.py
-│       ├── monedas_routes.py
-│       └── contactos_routes.py
-├── requirements.txt
-├── Procfile
-├── .gitignore![image](https://github.com/user-attachments/assets/033d30af-baf7-4cb3-a6f8-b2be1effae59)
+![image](https://github.com/user-attachments/assets/d3a2372d-fc95-410f-a2f3-02e4a741a3b5)
 
-
-![image](https://github.com/user-attachments/assets/5b30b5f3-13ea-452a-9c49-7c5ab369e6c5)
-
-![image](https://github.com/user-attachments/assets/b27943a4-5266-4731-b91b-94f80623c0f7)
 
